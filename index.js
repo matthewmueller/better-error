@@ -32,5 +32,3 @@ function error(msg) {
     ? pe.render(err)
     : err;
 }
-
-throw error('the sky is %s!', 'falling');
