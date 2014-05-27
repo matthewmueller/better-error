@@ -1,0 +1,20 @@
+{
+  "name": "better-error",
+  "version": "0.0.1",
+  "description": "more colorful, more flexible errors",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/better-error.git"
+  },
+  "dependencies": {
+    "pretty-error": "~1.1.1",
+    "longjohn": "~0.2.4"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
